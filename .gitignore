@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Xcode build products
+build/
+DerivedData/
+*.xcarchive
+*.ipa
+
+# Xcode user-specific state
+xcuserdata/
+*.xcuserstate
+
+# Swift Package Manager
+.swiftpm/
+.build/
+Packages/
+Package.resolved
+
+# CocoaPods
+Pods/
