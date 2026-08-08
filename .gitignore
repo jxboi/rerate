@@ -19,3 +19,6 @@ Package.resolved
 
 # CocoaPods
 Pods/
+
+# Documents
+*.pdf
